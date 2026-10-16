@@ -1,0 +1,8 @@
+streamlit
+pandas<2.2
+altair
+boto3
+python-dotenv
+openai>=1.0
+langfuse>=3.0
+pycaret==3.3.2

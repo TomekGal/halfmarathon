@@ -2,3 +2,5 @@
 zadanie_pliki_pomocnicze
 .ipynb_checkpoints
 .vscode
+logs.log
+maraton2024_regression_pipeline.pkl
